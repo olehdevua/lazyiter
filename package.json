@@ -1,0 +1,28 @@
+{
+  "name": "lazyiter",
+  "version": "1.0.0",
+  "description": "Lazy iterator",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "sinon": "^1.17.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/OlegTsyba/lasyiter.git"
+  },
+  "keywords": [
+    "lazy",
+    "iterator"
+  ],
+  "author": "OlegTsyba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegTsyba/lasyiter/issues"
+  },
+  "homepage": "https://github.com/OlegTsyba/lasyiter#README.md"
+}
