@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/OlegTsyba/lasyiter.git"
+    "url": "git://github.com/OlegTsyba/lazyiter.git"
   },
   "keywords": [
     "lazy",
@@ -22,7 +22,7 @@
   "author": "OlegTsyba",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OlegTsyba/lasyiter/issues"
+    "url": "https://github.com/OlegTsyba/lazyiter/issues"
   },
-  "homepage": "https://github.com/OlegTsyba/lasyiter#README.md"
+  "homepage": "https://github.com/OlegTsyba/lazyiter#README.md"
 }
