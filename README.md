@@ -36,7 +36,7 @@ a.take(3).filter(e => e.length < 6)
 // compute either with `collect`
 a.collect() // [ 'OLEG', 'JEKA', 'DIMON' ]
 
-// or by hand (note: iterator can be passed only once)
+// or by hand (note: iterator can be traversed only once)
 a.next();  // { value: 'OLEG', done: false }
 a.next();  // { value: 'JEKA', done: false }
 a.next();  // { value: 'DIMON', done: false }
