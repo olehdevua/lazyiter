@@ -1,6 +1,6 @@
 {
   "name": "lazyiter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lazy iterator",
   "main": "index.js",
   "dependencies": {},
